@@ -32,7 +32,7 @@ This solution integrates various AI components to offer a seamless, personalized
 
 This diagram explains how each component works together to deliver personalized recommendations and intelligent responses.
 
-🔍 How It Works
+## 🔍 How It Works
 
 - User Profile Input: The system takes inputs from the user to create or access their insurance profile.
 - Policy Recommendation: Using NLU-driven SQL execution, policies are suggested based on the user’s profile.
